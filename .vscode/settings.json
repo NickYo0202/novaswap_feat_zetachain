@@ -1,0 +1,16 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.jdt.ls.java.home": "C:/Users/HUAWEI/.jdk/jdk-21.0.8",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:/Users/HUAWEI/.jdk/jdk-21.0.8",
+            "default": true
+        }
+    ],
+    "maven.executable.path": "C:/Users/HUAWEI/.maven/maven-3.9.11/bin/mvn.cmd",
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME": "C:/Users/HUAWEI/.jdk/jdk-21.0.8",
+        "Path": "C:/Users/HUAWEI/.jdk/jdk-21.0.8/bin;C:/Users/HUAWEI/.maven/maven-3.9.11/bin;${env:Path}"
+    }
+}
